@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 I'm a student at Universiti Teknologi Malaysia studying Bachelor in Software Engineering. I have a keen interest in programming and technology, and I’m currently learning C++ and Java 
-0
+
 <!--
 **MuhdAzriArif/MuhdAzriArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
